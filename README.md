@@ -7,4 +7,4 @@
 * Food shopping list
 * Places to visit
 
-- Url: https://meekyberry.github.io/html-website/
+- Url: [https://mikkyprestige.github.io/html-website](https://mikkyprestige.github.io/html-website)
